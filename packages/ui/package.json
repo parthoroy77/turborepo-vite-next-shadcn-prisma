@@ -34,7 +34,7 @@
     ".": "./src/index.ts",
     "./main.css": "./main.css",
     "./postcss.config": "./postcss.config.js",
-    "./tailwind.config": "./tailwind.config.js",
+    "./tailwind.config": "./tailwind.config.ts",
     "./lib/*": "./src/lib/*.ts"
   }
 }
